@@ -1,0 +1,251 @@
+{
+  "form_name": "In-Home Assessment Documentation Form (Appendix B)",
+  "layout": {
+    "note": "Pixel-measured column borders (fractions of page width) from the sample scans. Standard and rating tables have different column widths, so each has its own field_num/field_label boundaries.",
+    "field_num_col": [
+      0.038,
+      0.125
+    ],
+    "standard_table": {
+      "field_label_col": [
+        0.122,
+        0.539
+      ],
+      "answer_col": [
+        0.539,
+        0.654
+      ],
+      "comment_col": [
+        0.654,
+        0.968
+      ]
+    },
+    "rating_table": {
+      "field_label_col": [
+        0.1065,
+        0.4735
+      ],
+      "rating_cols": [
+        [
+          0.4735,
+          0.5988
+        ],
+        [
+          0.5988,
+          0.6953
+        ],
+        [
+          0.6953,
+          0.7929
+        ],
+        [
+          0.7929,
+          0.8735
+        ],
+        [
+          0.8735,
+          0.9647
+        ]
+      ],
+      "rating_col_labels": [
+        "Completely Independent (1)",
+        "Requires Cueing or Coaching (2)",
+        "Requires Assistance (3)",
+        "Cannot Do At All (4)",
+        "Cannot Assess (5)"
+      ]
+    }
+  },
+  "fields": [
+    {
+      "num": 1,
+      "label": "In-Home Assessment Date:",
+      "table": "standard"
+    },
+    {
+      "num": 2,
+      "label": "Referral Date:",
+      "table": "standard"
+    },
+    {
+      "num": 3,
+      "label": "Performed by:",
+      "table": "standard"
+    },
+    {
+      "num": 4,
+      "label": "Name of Patient:",
+      "table": "standard"
+    },
+    {
+      "num": 5,
+      "label": "Date of Birth:",
+      "table": "standard"
+    },
+    {
+      "num": 6,
+      "label": "Medicare Identification Number:",
+      "table": "standard"
+    },
+    {
+      "num": 7,
+      "label": "Address:",
+      "table": "standard"
+    },
+    {
+      "num": 8,
+      "label": "Answers provided by:",
+      "table": "standard"
+    },
+    {
+      "num": 29,
+      "label": "Is the patient socially isolated outside of their normal behaviors? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 30,
+      "label": "Has the patient been targeted for exploitation or scamming? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 31,
+      "label": "Is the patient at risk for housing insecurity? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 32,
+      "label": "Is the patient at risk for food insecurity or poor nutrition? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 33,
+      "label": "Has the patient fallen in the last year? (Y/N) - If yes, were there injuries?",
+      "table": "standard"
+    },
+    {
+      "num": 34,
+      "label": "Other Environmental / Social Observations",
+      "table": "standard"
+    },
+    {
+      "num": 35,
+      "label": "Agitation/Aggression: Does the patient get angry or hostile? Do they resist care from others? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 36,
+      "label": "Hallucinations: Does the patient see and/or hear things that no one else can see or hear? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 37,
+      "label": "Irritability/Moodiness: Does the patient act impatient and/or cranky? Does their mood change frequently for no apparent reason? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 38,
+      "label": "Suspiciousness/Paranoia: Is the patient suspicious without good reason? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 39,
+      "label": "Indifference/Social Withdrawal: Does the patient seem less interested in their usual activities or in the activities and plans of others? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 40,
+      "label": "Sleep Problems: Does the patient have trouble sleeping at night? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 41,
+      "label": "Anxiety/Shadowing: Does the patient routinely follow around their caregiver or show signs of anxiety if he/she can't follow/see their caregiver? (Y/N)",
+      "table": "standard"
+    },
+    {
+      "num": 42,
+      "label": "Other Behavioral Observations",
+      "table": "standard"
+    },
+    {
+      "num": 43,
+      "label": "Use the Telephone",
+      "table": "rating"
+    },
+    {
+      "num": 44,
+      "label": "Shopping",
+      "table": "rating"
+    },
+    {
+      "num": 45,
+      "label": "Laundry",
+      "table": "rating"
+    },
+    {
+      "num": 46,
+      "label": "Driving or using public transportation",
+      "table": "rating"
+    },
+    {
+      "num": 47,
+      "label": "Food Preparation",
+      "table": "rating"
+    },
+    {
+      "num": 48,
+      "label": "Medication Management",
+      "table": "rating"
+    },
+    {
+      "num": 49,
+      "label": "Housekeeping",
+      "table": "rating"
+    },
+    {
+      "num": 50,
+      "label": "Finances",
+      "table": "rating"
+    },
+    {
+      "num": 51,
+      "label": "Bathing",
+      "table": "rating"
+    },
+    {
+      "num": 52,
+      "label": "Dressing (including getting clothes from drawers or closet)",
+      "table": "rating"
+    },
+    {
+      "num": 53,
+      "label": "Toileting (including cleaning, redressing, washing hands)",
+      "table": "rating"
+    },
+    {
+      "num": 54,
+      "label": "Transferring in and out of a chair or bed",
+      "table": "rating"
+    },
+    {
+      "num": 55,
+      "label": "Continence (control of bladder and bowels)",
+      "table": "rating"
+    },
+    {
+      "num": 56,
+      "label": "Feeding",
+      "table": "rating"
+    },
+    {
+      "num": 57,
+      "label": "Grooming (including teeth, hair, shaving, etc.)",
+      "table": "rating"
+    },
+    {
+      "num": 58,
+      "label": "Any other observations or concerns?",
+      "table": "standard"
+    }
+  ]
+}

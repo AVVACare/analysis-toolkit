@@ -1,0 +1,26 @@
+# Home-assessment form extraction pipeline (extract_assessment.py, run_ocr_llm_pipeline.py,
+# and the extract_home_assessment_forms_*.py / gemini_correction_pass.py / compare scripts).
+#
+# Also needs, outside of pip:
+#   - poppler (pdf2image's PDF-rendering backend): macOS `brew install poppler`,
+#     Ubuntu/Debian `apt-get install poppler-utils`
+#   - Cloud Vision API and Vertex AI API enabled on your GCP project, with your service
+#     account granted access to both (see the setup notes in each script's docstring)
+
+# Cloud Vision OCR leg (extract_assessment.py)
+google-cloud-vision==3.7.4
+pdf2image==1.17.0
+pillow==10.4.0
+numpy==1.26.4
+pandas==2.2.2
+openpyxl==3.1.5  # combined-workbook output for run_ocr_llm_pipeline.py
+
+# Gemini leg (extract_home_assessment_forms_gemini.py, gemini_correction_pass.py)
+google-genai==0.3.0
+pymupdf==1.24.9
+
+# Optional -- only needed if you still run extract_home_assessment_forms_docai.py directly
+# (Document AI is no longer part of the active pipeline; this module's shared field
+# definitions and helpers import fine without this package, it's lazily imported only inside
+# process_one_form()/main() when the Document AI path is actually invoked)
+# google-cloud-documentai==2.29.2
