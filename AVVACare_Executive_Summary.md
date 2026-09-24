@@ -17,6 +17,12 @@ AvvaCare's In-Home Assessment forms are filled out by hand during every caregive
 
 This unlocks something that wasn't possible before: looking across the entire patient population at once, instead of one paper form at a time.
 
+### Why Gemini
+
+We evaluated three ways to read the scanned forms: Google Document AI, Google Cloud Vision OCR, and Gemini. Document AI was ruled out early — its table parser couldn't correctly separate the Daily Function section's rating columns, losing which answer was actually marked on the form.
+
+To choose between the other two, we manually checked 754 individual answers, across 38 different questions, against the original scans. **Gemini matched the correct answer 87% of the time; Cloud Vision matched only 3% of the time** — Cloud Vision reads raw text rather than identifying which specific answer was marked, so it wasn't built for this kind of structured reading in the first place. Based on this, Gemini became the primary extraction method, with any result below an 85% reliability bar routed to manual review rather than trusted automatically.
+
 ### Finding 1 — A widespread, fixable gap
 
 ![Top 12 risk indicators by prevalence](chart_prevalence.png)
