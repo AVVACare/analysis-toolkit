@@ -7,15 +7,12 @@
 - 100 handwritten home-assessment forms were turned into structured, analyzable patient data.
 - Clear, quantifiable risk patterns emerged across the patient population once the data was combined.
 - A pilot system was built to automatically transcribe and analyze caregiver check-in calls.
-- Both efforts are ready to scale, with a clear path to broader rollout.
 
 ## Home Assessments
 
 ### What we did
 
 AvvaCare's In-Home Assessment forms are filled out by hand during every caregiver visit, capturing home safety, environment, and behavioral health. We built an automated system that reads these scanned forms and turns them into structured, searchable data — 100 forms processed so far, spanning 24 distinct safety and behavioral risk indicators per patient.
-
-This unlocks something that wasn't possible before: looking across the entire patient population at once, instead of one paper form at a time.
 
 ### Why Gemini
 
