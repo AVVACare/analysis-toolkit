@@ -33,9 +33,11 @@ The behavior-symptom indicators (agitation, irritability, anxiety, sleep problem
 
 ### Finding 2 — Patterns that cluster together
 
-![Top 10 risk pairs by co-occurrence lift](chart_cooccurrence.png)
+![Co-occurring risk pairs: rate with vs. without the first flag](chart_cooccurrence.png)
 
-Some risk indicators show up together far more often than chance alone would predict. **Withdrawal and social isolation co-occur in 22 patients — about twice the rate expected by chance** — the largest such pattern by patient count, suggesting a specific, identifiable group rather than two unrelated, scattered issues. **Walkway hazards and missing bathroom supports co-occur even more strongly (2.44x expected)** in a smaller group of 8 homes, indicating these two safety gaps tend to appear together within the same home.
+Some risk indicators show up together far more often than they would if they were unrelated. Each pair below compares two rates: how often the second flag appears among patients who already have the first flag, versus how often it appears across the whole patient population. Pairs with fewer than 15 qualifying patients are left out, since a small group can produce a misleadingly large gap.
+
+**Among patients with withdrawal, 59.5% also show social isolation, compared to 28.7% across all patients** — the largest such pattern by patient count (22 of 100). **Among patients with walkway hazards, 53.3% also have missing bathroom mobility supports, compared to 21.9% across all patients** — an even bigger gap in percentage-point terms, though in a smaller group (8 patients). A broader behavior-symptom cluster (hallucinations, paranoia, agitation, wandering, reduced independent navigation) shows the same pattern, each holding across 34–47 patients.
 
 These are the kinds of patterns that are easy to miss reading forms one at a time, and easy to see once the data is combined.
 
