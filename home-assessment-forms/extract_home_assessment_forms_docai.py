@@ -135,14 +135,14 @@ _ALL_QUESTION_TEXT = {
     "final_observations": "Any other observations or concerns",                      # 58 (last item on the form)
 }
 
-# Per product decision: only items 1-8 and 29-through-end are wanted. Items 9-28 --
-# the "living situation" header fields (9-11) and the entire Home Safety section
-# (12-28, grab bars/smoke detectors/firearms storage/etc.) -- are excluded. Kept as
-# _ALL_QUESTION_TEXT above (rather than deleted outright) so re-enabling any of these
-# later is a one-line change instead of re-typing the question wording from scratch.
-_EXCLUDED_ITEM_KEYS = {
-    "header.living_situation", "header.rent_or_own", "header.living_arrangement_details",
-} | {k for k in _ALL_QUESTION_TEXT if k.startswith("home_safety.")}
+# Updated product decision: items 1-42 and 58 are all wanted now (this used to exclude 9-28 --
+# living situation + Home Safety -- but that exclusion was lifted). Daily Function (43-57) is
+# handled separately via DAILY_FUNCTION_LABELS below and was never part of _ALL_QUESTION_TEXT, so
+# it doesn't need an entry here to be excluded from the Gemini-only pipeline, which skips it
+# outright (see extract_home_assessment_forms_gemini.py).
+# Kept as a set (rather than deleting the concept outright) so excluding something again later --
+# or checking git history for what used to be excluded and why -- is a one-line change.
+_EXCLUDED_ITEM_KEYS = set()
 
 QUESTION_TEXT = {k: v for k, v in _ALL_QUESTION_TEXT.items() if k not in _EXCLUDED_ITEM_KEYS}
 

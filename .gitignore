@@ -217,6 +217,14 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 home-assessment-forms/avvacare-clinical-ops-39ea028d2234.json
+audio-transcribe-analysis/avvacare-clinical-ops-39ea028d2234.json
 .DS_Store
-home-assessment-forms/sample/*.pdf
+home-assessment-forms/**/*.pdf
+home-assessment-forms/work_gemini_extract/*.*
+home-assessment-forms/OldRun_outputs/**/
+audio-transcribe-analysis/**/*.mp3
+audio-transcribe-analysis/work/
+audio-transcribe-analysis/transcripts/
 home-assessment-forms/pilot*
+home-assessment-forms/**/*.csv
+audio-transcribe-analysis/**/*.csv

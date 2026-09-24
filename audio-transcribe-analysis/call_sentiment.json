@@ -1,0 +1,56 @@
+[
+  {
+    "overall_sentiment": "Mixed",
+    "overall_sentiment_score": -0.3,
+    "caregiver_distress_level": "Moderate",
+    "key_concerns": [
+      "unmet_need",
+      "confusion",
+      "caregiver_burnout",
+      "financial_stress",
+      "satisfaction"
+    ],
+    "supporting_quotes": [
+      {
+        "quote": "Ha, fail exav. Asaci, hanqarc, Gzoditin asaci, hanqarc, vorovhetev spasum ei, es piti gnai, ban, appointment unei. U nayum em, tenam 8:15-a hle chka, u che, 8-in 10 a pakas chka. Es 8-in piti durs gal ei. Ha, asaci, zangeci Gzoditi, asaci, ban, in@ chorsi hamar. Vochnar chen ekel. Verjinn es er, vor.",
+        "quote_en": "Yes, it failed. I told, suddenly, I told Gzodit, suddenly, because I was waiting, I had to go, I had an appointment. And I look, I see it's 8:15 and she's not here, and no, it's 10 to 8 and she's not here. I had to leave at 8. Yes, I called Gzodit, I said, well, for the 9-4 slot. No one came. This was the last time."
+      },
+      {
+        "quote": "Asum a inch e ed axchkan imacel a, imic a galis. Ha, asaci, che, ba es sorry, sorry. Asaci, de hima inch anenq? Maman@ inc es toxeci menak gnatel. Oh, sorry, vor tenc a exel.",
+        "quote_en": "She says that girl found out, she's coming from home. Yes, I said, no, but I'm sorry, sorry. I said, so what do we do now? My mom was left alone by me. Oh, sorry that it happened like that."
+      },
+      {
+        "quote": "es aveli shut im jamernein uzum pahei, vor chors@ jam@s chpchacnein.",
+        "quote_en": "I wanted to keep my hours sooner so they wouldn't waste my four hours."
+      },
+      {
+        "quote": "Ha, te 150-in amen angam mekin noric train anen, maman el a confused linum.",
+        "quote_en": "Yes, if they train a new one out of 150 every time, mom also gets confused."
+      },
+      {
+        "quote": "Amen angam stress e tanum.",
+        "quote_en": "Every time it causes stress."
+      },
+      {
+        "quote": "Ba, ba et a, asel es, ed problemna hima im mot, \u0578\u0580 es mi hat gorci piti gnam, asenq im gorcs 8-ic 12-n a. Part-time a, asenq, ban em eli, sub em anum, substitute em anum, asel es qez phoxel em. Du es dazhe eti araotna linum et gorc@. Es hima et el chem karum vercnum, \u0578\u0580ovtev bay es uzum es kanchum 8-in.",
+        "quote_en": "Yes, yes, that's it, I told you, that's the problem for me now, that I have to go to a job, let's say my job is from 8 to 12. It's part-time, I'm doing, like, substituting. I told you I changed it. You even want to call for that job in the morning at 8. I can't even take that now, because you want to call me at 8."
+      }
+    ],
+    "summary": "The family member (Speaker 2) expresses significant frustration and stress regarding unreliable caregiver scheduling. She recounts an instance where a caregiver failed to show up, leaving her mother alone, which caused her to miss an appointment. This ongoing inconsistency prevents her from taking on part-time work and causes her mother confusion when new caregivers are sent. While there's a positive update on her mother's vertigo, the core issue of inconsistent and unreliable care remains a major source of distress and impacts her own life and finances. She reiterates the need for a reliable, consistent caregiver to avoid wasting her time and causing her stress.",
+    "escalation_recommended": true,
+    "per_speaker_sentiment": [
+      {
+        "speaker": "Speaker 1",
+        "sentiment": "Neutral",
+        "notes": null
+      },
+      {
+        "speaker": "Speaker 2",
+        "sentiment": "Mixed",
+        "notes": "Expressed frustration and stress about caregiver reliability, but also shared a positive update about her mother's health."
+      }
+    ],
+    "self_flagged_uncertain": false,
+    "source_file": "20260915-105528_104_+17477770908_Outgoing_Auto_3477347238030.mp3"
+  }
+]

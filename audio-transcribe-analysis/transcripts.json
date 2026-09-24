@@ -1,0 +1,245 @@
+[
+  {
+    "turns": [
+      {
+        "speaker": "Speaker 1",
+        "text": "name and reason for calling. I'll see if this person is available. Sona.",
+        "start_time_sec": 0.0,
+        "text_en": "Name and reason for calling. I'll see if this person is available. Sona."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Thank you. Please stay on the line.",
+        "start_time_sec": 5.0,
+        "text_en": "Thank you. Please stay on the line."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Hello.",
+        "start_time_sec": 15.3,
+        "text_en": "Hello."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Hello. Lili jan barev dzez. Bara, bara Sona jan.",
+        "start_time_sec": 16.0,
+        "text_en": "Hello. Lily dear, greetings. Greetings, greetings Sona dear."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Lav, mersi Lili jan. Du vonc es? Lav, lav. Tes, ah ha, tesank. Maman.",
+        "start_time_sec": 18.5,
+        "text_en": "Good, thank you Lily dear. How are you? Good, good. Look, ah ha, we saw. Mom."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha, asacir tesnem vonc a maman, duq vonc eq? Lav a, es inch hamarov eir zang tali?",
+        "start_time_sec": 22.2,
+        "text_en": "Yes, you said, let me see how mom is, how are you? Is she well, what number were you calling from?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha, heh, kaperics a yerevi chem gitem. Amen angam yerevi mi ban a anum a. Es el a, yerevi in@ chors, in@ chors el e chem e. Ha, in@ chors? Ha.",
+        "start_time_sec": 26.2,
+        "text_en": "Yeah, heh, it's from my contacts, I guess I don't know. Every time maybe it's doing something. This is also, maybe nine four, nine four, I don't know. Yeah, nine four? Yeah."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha, in@ chors, tarorinak hamar er. Esem lav pahe vor. Ha. Vonc eq?",
+        "start_time_sec": 33.0,
+        "text_en": "Yeah, nine four, it was a strange number. That's good that it saved. Yeah. How are you?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Qez asel es Judi, te vor amsiki 21-in marmart em uzum? Septemperin?",
+        "start_time_sec": 38.0,
+        "text_en": "Did I tell you, Judy, that I want a caregiver on the 21st of the month? In September?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha. Techner asac, indz chen asel. Ha. Ha, lav, bayc inq@ uzhi. Che. Giver Judi-n a?",
+        "start_time_sec": 42.1,
+        "text_en": "Yes. The technicians said, they didn't tell me. Yes. Yes, good, but she's strong. No. Is it caregiver Judy?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Che, dzer manager@.",
+        "start_time_sec": 46.5,
+        "text_en": "No, your manager."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "A, Judi-n, yerevi. Judi-n, Judi, sorry. Ha. Ha, Judi-n a company. A, septemberi 21-in es uzel? Ha.",
+        "start_time_sec": 47.3,
+        "text_en": "Ah, Judy, maybe. Judy, Judy, sorry. Yeah. Yeah, Judy is the company. Ah, you wanted it on September 21st? Yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha. Ha, hle chen. Inch companie-n a inq@ ughark. Ha, inq@ ira, inqn a, vonc vor, ira company-n a. Inq@, vonc vor, im direct supervisor@ chi, inq@, vonc vor, es, menq iranc, iranc enq vcharum, vor caregivers-nerin eli ugharken. Aha. Da anun@ chisht aracir, vorovhetev qez inch es es zangeci? Kiraki er, ha, karcum em Kiraki zangeci es.",
+        "start_time_sec": 52.4,
+        "text_en": "Yeah. Yeah, they haven't yet. Which company is she sending? Yeah, she, herself, like, it's her company. She's, like, not my direct supervisor, she's, like, we pay them, them, so they send caregivers again. Aha. You named that correctly, because what did I call you for? It was Sunday, yeah, I think I called you on Sunday."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha, Kiraki or@ chem ashxatum, de shabat Kiraki. Ha. Ha, inq@ misht vercnum a heraxos@. Ha, u, vonc vor asaci 21-in, vorovhetev en angam gites, che, fail exav, en vor piti gar meka. Amsiki, ha, sip, ha.",
+        "start_time_sec": 64.3,
+        "text_en": "Yeah, I don't work on Sunday, so Saturday, Sunday. Yeah. Yeah, she always picks up the phone. Yeah, and, like I said on the 21st, because that time, you know, right, it failed, that someone was supposed to come. On the, yeah, sip, yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha, fail exav. Asaci, hanqarc, Gzoditin asaci, hanqarc, vorovhetev spasum ei, es piti gnai, ban, appointment unei. U nayum em, tenam 8:15-a hle chka, u che, 8-in 10 a pakas chka. Es 8-in piti durs gal ei. Ha, asaci, zangeci Gzoditi, asaci, ban, in@ chorsi hamar. Vochnar chen ekel. Verjinn es er, vor.",
+        "start_time_sec": 72.8,
+        "text_en": "Yeah, it failed. I told, suddenly, I told Gzodit, suddenly, because I was waiting, I had to go, something, I had an appointment. And I look, I see it's 8:15 and she's not here yet, and no, 10 minutes to 8 and she's not here. I had to leave at 8. Yeah, I said, I called Gzodit, I said, something, for nine four. No one came. This was the last time, that."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Piti, asum a, zangel a, inch \u0578\u0580 asum a, imic piti ga. Asum a, no, imic inch e petq chi, es durs em galis. Ha, ha, 9:30-ic 11:30-a henc hima dimacs drac a, nayum em inch em grel. Ha, ha, ha. Ok. Ogostosi 24-ner ed?",
+        "start_time_sec": 83.3,
+        "text_en": "She's supposed to, she says, she called, she says something, that she should come from my place. She says, no, what do I need from my place, I'm going out. Yeah, yeah, 9:30 to 11:30 is right in front of me now, I'm looking at what I wrote. Yeah, yeah, yeah. Okay. Was it August 24th?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha, verjinn im mot sa a, vor uzel eq indz anel 24-n a. Ha, ha. U ban@, ha, asaci please cancel ara, vorovhetev jamer@s chgnar eli. Asum a inch e ed axchkan imacel a, imic a galis. Ha, asaci, che, ba es sorry, sorry. Asaci, de hima inch anenq? Maman@ inc es toxeci menak gnatel. Oh, sorry, vor tenc a exel.",
+        "start_time_sec": 93.6,
+        "text_en": "Yeah, the last one for me is this, that you wanted to do it for me on the 24th. Yeah, yeah. And the thing is, yeah, I said please cancel it, because I didn't want my hours to go to waste again. She says, what, that girl found out, she's coming from my place. Yeah, I said, no, well, sorry, sorry. I said, so what do we do now? Mom, you left me alone and went. Oh, sorry that that happened."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Nomal er? Bayc heto. Ha, ha, nomal er. Motik tex ei gnatel, lav a anum enq. I anq chors@ jam er, vercreci, ban, TV-n miacreci. Ha, ha, phakeci iharke dur@. Ha, u, vobshem, lav a, vor, vonc vor, lucum@ kar, te che es e piti fail anei. Tenc vor linum a, Lili jan, indz el lur tveq hima, orinak stegh document kanem, vorovhetev mart es, linum a xarnum en, vor orinak irenq mez bill ugharken, ban anen, chex anenq, asenq billingi axchikner@, vor tesnen. Ha, ha, ha.",
+        "start_time_sec": 104.1,
+        "text_en": "Was it normal? But then. Yeah, yeah, it was normal. I went to a nearby place, it's good that we're doing it. The four hours were taken, I did something, turned on the TV. Yeah, yeah, of course, I closed the door. Yeah, and, well, it's good that, like, there was a solution, otherwise this would have failed. When that happens, Lily dear, let me know now, for example, I'll document it here, because you're a person, sometimes they mess up, for example, if they send us a bill, or something, they check, say, the billing girls, so they see. Yeah, yeah, yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha, ba es Juditin asaci, xndrum em mi hat fix ara, vor im vra, ha, ban chanes. Yes aveli shut im jamernein uzum pahei, vor chors@ jam@s chpchacnein. Ha, ha, ha.",
+        "start_time_sec": 119.5,
+        "text_en": "Yeah, well I told Judit, please fix it, so that, yeah, you don't do anything to me. I wanted to save my hours sooner, so that I wouldn't waste my four hours. Yeah, yeah, yeah."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha, ha, ha, de vor menq vcharum enq, chors@ jamn el norum a eli heto, \u0578\u0580 irenq ugharkum en.",
+        "start_time_sec": 125.7,
+        "text_en": "Yeah, yeah, yeah, well if we're paying, the four hours get renewed again afterwards, when they send them."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "De ba, ba es, es etenc em mtacum, im, im ogtin em mtacum. Zeros. Zerod el vor, ha, ha. Axchkes ha, bayc fix kani, mi hat du el, eli hetevi, vor fix ara.",
+        "start_time_sec": 129.5,
+        "text_en": "Well, well I, I think that way, I think in my, my favor. Zero. Even your, yeah, yeah. My daughter, yeah, but she'll fix it, you also, follow up again, so she fixes it."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Lav, ha. Zham@ kanic ic kanis a zham@? Iranq petq e 12-ic 4-@, 21-in.",
+        "start_time_sec": 136.6,
+        "text_en": "Good, yeah. From what time to what time is the time? They need to on the 21st, from 12 to 4."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "12-ic 4-@, 21-in. 12-ic 4-@, 4-@ jam. Pm 4-@. 12-ic 4-@. Asaci please, asaci, nenc mart lini, vor inq@ stegh exel a, Raquel a anun@, mi hat. Meksik axchik er, mi angam tenc ekav hankarcaki. Eli er ekel, Yeran a, Lilith-n a, mi hat el kar ekel er, vor vonc vor, maman@ stress chani eli. Ha, inq@ asac menq 150 hat ashxatox unenq. Ha, asaci mtqums asaci, ha bayc es em 150-i mejev chem ancnelu. Ha, ha.",
+        "start_time_sec": 140.7,
+        "text_en": "12 to 4, on the 21st. 12 to 4, 4 hours. 4 PM. 12 to 4. I said please, I said, let it be someone who has been here, Raquel is her name, once. She was a Mexican girl, she came suddenly like that once. She had come again, Yeran is, Lilith is, there was another one who had come, so that, like, mom wouldn't get stressed again. Yeah, she said we have 150 employees. Yeah, I said to myself, yeah, but I'm not going to go through 150 of them. Yeah, yeah."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Qez course, haskanum em, ha, ha. Ches, lav a, inq@ asac mez 150 hat ashxatox unenq. Ha, ha. 150-in el ugharken. Ha, ha.",
+        "start_time_sec": 157.0,
+        "text_en": "Of course, I understand, yeah, yeah. No, it's good, she told us we have 150 employees. Yeah, yeah. Send 150 of them. Yeah, yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha, te 150-in amen angam mekin noric train anen, maman el a confused linum. Asenq, ete ban el liner chunerar eli. Okey a, mart@ kasana vor, ha. Amen angam stress e tanum. De che, ha, es karcum em ed axchikneric meka klinem, karcum em, vorovhetev shut em zangum. Aha. Ha, okey, es indz el ugharki chen ban arel, chen kapnvel. Yerevi staff kanen nor referral@ kzgen, bayc es el khetvum em. Lili jan, inq@.",
+        "start_time_sec": 162.7,
+        "text_en": "Yeah, or if they train one of the 150 every time again, mom gets confused too. Like, if she had something else, she wouldn't have it again. It's okay, the person will understand that, yeah. Every time it causes stress. Well no, yeah, I think I'll be one of those girls, I think, because I call quickly. Aha. Yeah, okay, they haven't done anything to me either, they haven't contacted me. Maybe they'll staff a new referral, but I'm also following up. Lily dear, she."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha. Ha, de verjapes. Inq@ misht vercnum a. Ha. Ha. Aydpes petq a linel. Ha. Qez course, haskanum em, ha. Ha. 150-in el ugharken.",
+        "start_time_sec": 174.5,
+        "text_en": "Yeah. Yeah, well finally. She always picks up. Yeah. Yeah. That's how it should be. Yeah. Of course, I understand, yeah. Yeah. Send 150 of them."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Du ughaki hankarcaki zangecir. Ha, ha, asaci ughaki tesnem vonc eq.",
+        "start_time_sec": 180.3,
+        "text_en": "You just called suddenly. Yeah, yeah, I just said let me see how you are."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Ha, ha.",
+        "start_time_sec": 183.5,
+        "text_en": "Yeah, yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "O, o, haskaca. Vorovhetev inq@ asac during the week qez meka kzangta, vor ova galu. Ha, de petq a zangtain, iranc motic, vonc vor, petq a zangtain lur tan, vonc vor, iranc masna, bayc et, vor ognum enq, vor, vor imanume, mez lur en talis, uzum enq, \u0578\u0580 chzangi kam inch vor ban, menq el mer phorci es, phorci grenq. Bayc et or@ du asir hay axchik a galu, karcem asel es. Ha, io, inq@ inch \u0578\u0580 jamna shphotel, 8-in tegh@ 9-in a uzecel ga, et Gzodit@ asel es. Asaci no, no, asaci. Inch \u0578\u0580, verjapes, inch \u0578\u0580.",
+        "start_time_sec": 184.6,
+        "text_en": "Oh, oh, I understood. Because she said during the week someone will call you, who is coming. Yeah, well they should call, from their side, like, they should call to inform, like, it's their part, but that, that we're helping, that, that we know, they give us news, we want them not to call or something, we'll write it from our experience. But that day you said an Armenian girl is coming, I think you said. Yeah, I, she somehow confused the time, instead of 8, she wanted to come at 9, Gzodit said that. I said no, no, I said. Something, finally, something."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "U gitem vor, orinak, urish companiin en, vor vonc vor mtacum en vor kareqs flexible linen, chen haskanum vor a point@ mtac kam inch vor mi ban a eli.",
+        "start_time_sec": 200.7,
+        "text_en": "And I know that, for example, for another company, like, they think that you need to be flexible, they don't understand that there's a point to think about or something else."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ba, ba et a, asel es, ed problemna hima im mot, \u0578\u0580 es mi hat gorci piti gnam, asenq im gorcs 8-ic 12-n a. Part-time a, asenq, ban em eli, sub em anum, substitute em anum, asel es qez phoxel em. Du es dazhe eti araotna linum et gorc@. Es hima et el chem karum vercnum, \u0578\u0580ovhetev bay es uzum es kanchum 8-in. Ete naxoroq, asenq, graphic unenak, Lili jan, asenq. Ha, et vaxkt ka, et vaxkt, es graphic unem, ha. Appointment@ unenumes, ha. Save anenq, \u0578\u0580 hangist. Bayc eli, appointment a, ha, parap, parat nstac chem. Es piti et jamin ntem, che, bzhishki attr. Ha, nstum em, el es um es, arir. Voch, es asel es inq@ giter te nin@ na. Asum em o, asel es no, no, no, asel es. Vay, knegnes, knegnes. Ha. Inch tveci. Ha. Hazar angam nerogucyun xndrec, \u0578\u0580 tenc da eghel. Ha, de asel es. Inch asel em.",
+        "start_time_sec": 25.48,
+        "text_en": "Well, well that's it, you said, that's the problem for me now, that I have to go to a job, let's say my job is from 8 to 12. It's part-time, let's say, I'm doing something again, I'm subbing, I'm substituting, I told you I changed. Even this is in the morning, that job. I can't take that now, because you want to call at 8. If, beforehand, let's say, you have a schedule, Lily dear, let's say. Yeah, there was that fear, that fear, I have a schedule, yeah. You have an appointment, yeah. Let's save it, so we're calm. But again, it's an appointment, yeah, I'm not sitting idle. I have to sit at that time, right, at the doctor's table. Yeah, I'm sitting, whatever you want, you did. No, I said she knew it was nine. I say oh, I said no, no, no, I said. Oh, I'm sorry, I'm sorry. Yeah. What did I give? Yeah. She apologized a thousand times, that it happened like that. Yeah, well I said. What I said."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Haskaca. Ha. U zangem. Ha. Save anenq, \u0578\u0580 hangist. Normal er.",
+        "start_time_sec": 225.43,
+        "text_en": "I understood. Yeah. And I'll call. Yeah. Let's save it, so we're calm. It was normal."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Ha. Isk maman@, en, ancel a, en glexapttuyti en, en, en.",
+        "start_time_sec": 229.04,
+        "text_en": "Yeah. And mom, that, she got over, that dizziness, that, that, that."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Chisht a. Ha.",
+        "start_time_sec": 232.06,
+        "text_en": "That's right. Yeah."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Che, ancel a arden, vorovhetev et physio terapia n areci, anum em, mi hat el a menacel. Et inq@ shat a ognum. Et vertigo yi physio terapian a ognum menak. U mi hat el dex ka, et glexapttuyti. Ahagin tvel es, yerevi, mot mi amis.",
+        "start_time_sec": 233.15,
+        "text_en": "No, she's already gotten over it, because I did that physical therapy, I'm doing it, one more is left. That helps a lot. Only that vertigo physical therapy helps. And there's also a medicine, for that dizziness. You gave quite a lot, maybe, for about a month."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Shat lav. De inch. Ha. Ha. Ha. Inch chi gnum, bayc te.",
+        "start_time_sec": 242.04,
+        "text_en": "Very good. Well then. Yeah. Yeah. Yeah. It's not going well, but still."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Hle vor che. Uzum em mi kich aveli shat dzeri, nor karam tanem. Iranq asel es, ete uzum es, ber mi or, erku or, ha, ha. Himas et a, nayum em, \u0578\u0580 nenc mi kich tetevana, karoxa asenq mi shabat, mi or tanem, asem, mi or berem. Mi hat gna mama zugarani mti, mama. Aha. Ha, ha. Ok. Lav mamain ha. De harcerin hajoxutyun. Kapin mej klinenq. Ete es inch vor update unenam, dzez het es inqes kkapnvem.",
+        "start_time_sec": 246.3,
+        "text_en": "Not yet. I want it to get a little better, then I can take her. They said, if you want, bring her for a day, two days, yeah, yeah. Now that's it, I'm looking for it to get a little lighter, maybe I'll take her for, say, a week, a day, I'll say, I'll bring her for a day. Go mom, go to the bathroom, mom. Aha. Yeah, yeah. Okay. Good to mom, yeah. Well, good luck with the questions. We'll keep in touch. If I have any updates, I'll contact you myself."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Eh, ha, eh, ha, eh. Sona jan. Eh, ha, eh, ha. Merci. Bye bye. Qez.",
+        "start_time_sec": 266.36,
+        "text_en": "Uh, yeah, uh, yeah, uh. Sona dear. Uh, yeah, uh, yeah. Thank you. Bye bye. To you."
+      }
+    ],
+    "num_speakers_detected": 2,
+    "diarization_confidence": "high",
+    "audio_quality_issues": [
+      "hold music",
+      "background noise",
+      "slight static on Speaker 2's audio",
+      "some crosstalk"
+    ],
+    "language": "Armenian",
+    "likely_navigator_speaker": "Speaker 1",
+    "source_file": "20260915-105528_104_+17477770908_Outgoing_Auto_3477347238030.mp3"
+  }
+]
